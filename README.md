@@ -10,7 +10,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-<h4>I am a passionate full-stack web developer</h4>
+<h3>I am a passionate full-stack web developer</h3>
 
 <p align="left">🔭 I’m currently engaged in building and enhancing full-stack web applications.<br>🤝 I’m looking to collaborate on full-stack web applications and open-source projects.<br>📖 Learning advanced web dev and scaling apps with microservices architecture.<br>💬Ask me about Next.js, Node.js, or Docker workflows.<br>⚡Fun Fact: I enjoy playing competitive games, watching movies and listening to music.</p>
 
