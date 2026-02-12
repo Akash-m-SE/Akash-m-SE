@@ -80,8 +80,6 @@
   
   <img src="https://skillicons.dev/icons?i=netlify" height="42" width="42" alt="netlify logo"  />
   
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="42" width="42" alt="tensorflow logo"  />
-  
   <img src="https://skillicons.dev/icons?i=redis" height="42" width="42" alt="redis logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" width="42" alt="vscode logo"  />
